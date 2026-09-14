@@ -211,3 +211,6 @@ TeXnicCenter is available as a full free version with all features and updates i
 ---
 
 Take your document writing to the next level with TeXnicCenter — download now and experience the difference!
+
+---
+**Last updated:** 2026-09-14 13:35:49 UTC
